@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html>
-  <head>
-        <meta charset="UTF-8">
+<!-- saved from url=(0050)file:///C:/Users/grace/Desktop/game/question3.html -->
+<html style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Grace Hartzell">
         <!-- Get Icons -->
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-        <link rel="stylesheet" href="style.css" type="text/css">
+        <link rel="stylesheet" href="./attempt to print_files/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+        <link rel="stylesheet" href="./attempt to print_files/style.css" type="text/css">
         <!-- Get bootstrap css for responsive grid -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./attempt to print_files/bootstrap.min.css">
 
     
 </head>
-<body>
-    <nav>
-      <div class="menu">
+<body style="">
+    <nav style="">
+      <div class="menu" style="">
         <!-- Menu icon -->
         <div class="icon-close">
           <i class="fa fa-times fa-2x" aria-hidden="true"></i>
@@ -22,10 +22,10 @@
   
         <!-- Menu -->
         <ul>
-          <li><a href="index.html">Question 1</a></li>
-          <li><a href="question2.html">Question 2</a></li>
-          <li><a href="question3.html">Question 3</a></li>
-          <li><a href="question4.html">Question 4</a></li>
+          <li><a href="file:///C:/Users/grace/Desktop/game/index.html">Question 1</a></li>
+          <li><a href="file:///C:/Users/grace/Desktop/game/question2.html">Question 2</a></li>
+          <li><a href="file:///C:/Users/grace/Desktop/game/question3.html">Question 3</a></li>
+          <li><a href="file:///C:/Users/grace/Desktop/game/question4.html">Question 4</a></li>
         </ul>
       </div>
       
@@ -40,16 +40,16 @@
       <div class="container">
         <div class="row">
           <!-- Empty div with a class of col 3 to push the card div to the middle of the page -->
-          <div  class="col-xs-2"></div>
+          <div class="col-xs-2"></div>
           <!-- The card div has a class of col 8, that means it will take up 8 columns in a 12 column grid.
           It is centered because we have a 2 column gudder on each side.. -->
           <div class="col-xs-8 card">
-            <Header>Ultimate Clickbae</Header>
+            <header>Ultimate Clickbae</header>
             <p class="text-center">Disclaimer: If you don't know, now you know (to use the side menu for more questions). </p>
           </div>
         </div>
         <div class="row">
-          <div  class="col-xs-2"></div>
+          <div class="col-xs-2"></div>
           <div class="col-xs-8 card">
             <h2>3. What's our favorite climate?</h2>
             <p>*Our is animal inclusive.</p>
@@ -72,15 +72,15 @@
                 <button class="btn-success">Select</button>
               </li>
             </ol>
-            <p class="error"><iframe src="https://giphy.com/embed/3o7ZeEZUzRjyvWuuIg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justin-g-run-away-fast-3o7ZeEZUzRjyvWuuIg"></a></p>
-            <p class="success"><iframe src="https://giphy.com/embed/mx9fVEF08tyne" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/80s-neverending-story-falkor-mx9fVEF08tyne"></a></p></p>
+            <p class="error"><iframe src="./attempt to print_files/3o7ZeEZUzRjyvWuuIg.html" width="480" height="480" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></p><p><a href="https://giphy.com/gifs/justin-g-run-away-fast-3o7ZeEZUzRjyvWuuIg"></a></p>
+            <p class="success"><iframe src="./attempt to print_files/mx9fVEF08tyne.html" width="480" height="334" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></p><p><a href="https://giphy.com/gifs/80s-neverending-story-falkor-mx9fVEF08tyne"></a></p><p></p>
           </div>
         </div>
       </div>
     </div>
       <!-- Script tags at the bottom so the page can load before fetching jquery -->
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="./attempt to print_files/jquery.min.js.download"></script>
       <!-- My js file relies on jquery to run so I put the script tag below so jquery will load first -->
-      <script src="index.js"></script>
-  </body>
-</html>
+      <script src="./attempt to print_files/index.js.download"></script>
+  
+</body></html>

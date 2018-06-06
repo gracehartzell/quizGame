@@ -1,10 +1,10 @@
 $(document).ready(function(){ /*the code included inside this function won't run until 
 the DOM (Document Object Model) is ready. Can use shorthand (in notes PDF) but I'm 
 inexperienced, so long form is th way to go.*/
-  /* Start off with the messages hidden */
+  /* Start off with the messages hidden 
   $('.success').hide();
   $('.error').hide();
-
+*/
   // Open navigation menu
   $('.icon-menu').click(function() {
     $('.menu').animate({
